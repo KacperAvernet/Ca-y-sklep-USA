@@ -1,0 +1,55 @@
+#ochat-menu {
+    opacity: 0.8;
+    background-color: white;
+    z-index: 9999;
+    bottom:0;
+    position:fixed;
+    margin-bottom: 2px;
+}
+#ochat-menu .list-group-item {
+    width: 100%;
+}
+#ochat-menu .ochat-title {
+    color: black;
+}
+.ochat-chat, #ochat-menu{
+    width: 280px;
+}
+.ochat-chat {
+    transition: right 0.2s ease-in;
+}
+#header .ochat-chat .ochat-footer{
+    margin-top: 0 !important;
+}
+.ochat-chat{
+    z-index: 9999;
+    bottom: 0px;
+    position:fixed !important;
+    background-color: #ffffff;
+}
+.ochat-chat .ochat-close :hover, .ochat-open :hover{
+    cursor: pointer;
+}
+.ochat-chat .ochat-close, .ochat-open {
+    background-color: rgb(235, 235, 235);
+    margin: 0 0 0 0 !important;
+}
+.ochat-chat .ochat-open-p , .ochat-close-p {
+    padding: 8.5px 0 8.5px 0;
+}
+.ochat-chat .ochat-open-p .fa-check, .ochat-close-p .fa-check{
+    padding-right: 5px;
+}
+#ochat-menu-open, #ochat-menu-closed {
+    background-color: rgb(235, 235, 235);
+}
+#ochat-menu .ochat-connector {
+    margin: 5px 23% 0;
+}
+.ochat-chat .ochat-time-sent{
+    float: right;
+}
+
+.list-group-item.user-list ul{
+    list-style:none;
+}

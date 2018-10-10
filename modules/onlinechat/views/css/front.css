@@ -1,0 +1,57 @@
+.chat-window {
+    bottom:-1px;
+    position:fixed;
+    right: 40px;
+}
+
+.valid-input{
+	border: 1px solid #46a74e;
+	color: #35b33f;
+	background: url(../img/icon/form-ok.png) 98% 5px no-repeat #ddf9e1;
+    background-color: rgb(221, 249, 225);
+}
+
+.not-valid-input{
+	border: 1px solid #f13340;
+	color: #f13340;
+	background: url(../img/icon/form-error.png) 98% 5px no-repeat #fff1f2;
+    background-color: rgb(255, 241, 242);
+}
+
+.cant-submit{
+	opacity: 0.4;
+}
+
+#chat_window_1 .ochat-footer {
+    width: 100%;
+}
+
+/**
+    Offline
+*/
+
+#send-offline-form{ 
+    margin-top: 15px;
+}
+
+#send-offline-form:disabled {
+    cursor:not-allowed;
+}
+
+.offline-form form, .msg_container_base{ 
+    font-size: 14px;
+}
+
+/**
+    Online
+*/
+
+textarea.chat-input { 
+    resize: none; 
+}
+.ochat-footer button#btn-chat {
+    float: right;
+}
+.OCHAT_ONLINE_WELCOME_TEXT{ 
+    
+}

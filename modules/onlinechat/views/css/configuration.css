@@ -1,0 +1,48 @@
+/* Configuration */
+.ochat-left{
+    padding-left: 0px !important;
+}
+
+/* Input field size */
+#OCHAT_MAX_ONLINE_CHAT_WINDOW_IN_FO, #OCHAT_TIMER_TO_OFFLINE_MODE {
+    width: 20% !important;
+}
+
+.ochat-form-group {
+    margin-bottom: 40px;
+}
+.ochat-offline-form-message {
+    margin-bottom: 15px;
+}
+
+#chat_window_1 #btn-input {
+    height: 31px !important;
+}
+
+#chat_window_1 .ochat-panel-heading, #chat_window_2 .ochat-panel-heading{
+    width: 100%;
+    top: -4px;
+}
+#chat_window_1, #chat_window_2 {
+    margin: auto !important;
+}
+
+/* Input text alignement left */
+.cleft{
+    padding-left: 0px !important;
+}
+
+.ochat-bottom {
+    bottom: -9px;
+}
+#configuration {
+    padding-bottom: 40px !important;
+}
+.clear{ 
+    clear: both; 
+}
+sup.mandatory {
+    font-size: 14px;
+    font-weight: bold;
+    color: #E08F95;
+}

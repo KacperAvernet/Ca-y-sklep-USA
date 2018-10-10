@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Members Only"
+AuthUserFile /home/www/clients/client1/web339/web/stats/.htpasswd_stats
+require valid-user

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/pl/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/pl/blog/feed.xml</link>
+    <description></description>
+    <language>pl</language>
+     <atom:link href="https://www.prestashop.com/pl/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Moda na robienie zakupów na całym świecie oraz turystyka oferują handlowcom nowe szanse na zwiększenie sprzedaży</title>
+    <link>https://www.prestashop.com/pl/blog/moda-na-robienie-zakupow-na-calym-swiecie-oraz-turystyka-oferuja-handlowcom-nowe-szanse-na-zwiekszenie-sprzedazy</link>
+    <description>Światowe rynki są w coraz większym stopniu dostępne dla handlowców z Europy – daje to ogromne możliwości, pod warunkiem dotrzymywania kroku aktualnym trendom.</description>
+     <pubDate>Tue, 31 Jul 2018 11:42:54 +0200</pubDate>
+ <dc:creator>wirecard_en</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/moda-na-robienie-zakupow-na-calym-swiecie-oraz-turystyka-oferuja-handlowcom-nowe-szanse-na-zwiekszenie-sprzedazy</guid>
+  </item>
+  <item>
+    <title>Jak wnieść swój wkład w projekt PrestaShop?</title>
+    <link>https://www.prestashop.com/pl/blog/jak-wniesc-swoj-wklad-w-projekt-prestashop</link>
+    <description>Zgodnie z tytułem artykułu, przygotowaliśmy przewodnik zawierający wszystkie niezbędne informacje dla osób, które chcą pomóc z projektem PrestaShop.</description>
+     <pubDate>Wed, 25 Jul 2018 10:41:35 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/jak-wniesc-swoj-wklad-w-projekt-prestashop</guid>
+  </item>
+  <item>
+    <title>Przygotuj swój sklep na przyszłe akcje marketingowe z kalendarzem e-commerce 2018.</title>
+    <link>https://www.prestashop.com/pl/blog/kalendarzee-commerce-2018</link>
+    <description>Mistrzostwa świata w piłce nożnej, wyprzedaże, turniej Wielkiego Szlema, Super Bowl, święto państwowe czy nawet Dzień Czekolady...</description>
+     <pubDate>Mon, 02 Jul 2018 12:04:18 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/kalendarzee-commerce-2018</guid>
+  </item>
+  <item>
+    <title>Podwyżka opłat za korzystanie z Google Maps od 16 lipca 2018 r.</title>
+    <link>https://www.prestashop.com/pl/blog/google-maps-p%C5%82atne</link>
+    <description>Dans le monde de l&#039;Internet et du commerce électronique, cette information est passée plutôt inaperçue.</description>
+     <pubDate>Mon, 18 Jun 2018 16:30:57 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/google-maps-p%C5%82atne</guid>
+  </item>
+  <item>
+    <title>Czym jest dropshipping? Moduły PrestaShop dla dropshippingu</title>
+    <link>https://www.prestashop.com/pl/blog/czym-jest-dropshipping</link>
+    <description>Wyszukiwanie dobrych interesów i rozkwit sprzedaży internetowej sprawiły, że dropshipping stał się modelem sprzedaży zyskującym obecnie cora</description>
+     <pubDate>Thu, 31 May 2018 15:36:11 +0200</pubDate>
+ <dc:creator>Habiba Ouenniche</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/czym-jest-dropshipping</guid>
+  </item>
+  <item>
+    <title>Rozwiązania PrestaShop w odpowiedzi na nowe wymagania w zakresie ochrony danych </title>
+    <link>https://www.prestashop.com/pl/blog/rozwiazania-prestashop-w-odpowiedzi-na-nowe-wymagania-w-zakresie-ochrony-danych-2</link>
+    <description>W jaki sposób zapewnić zgodność sklepu PrestaShop 1.6 &amp;amp; 1.5 z przepisami RODO?</description>
+     <pubDate>Fri, 27 Apr 2018 11:12:24 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/rozwiazania-prestashop-w-odpowiedzi-na-nowe-wymagania-w-zakresie-ochrony-danych-2</guid>
+  </item>
+  <item>
+    <title>PrestaShop dla dużego sklepu internetowego. Czy to dobry pomysł? </title>
+    <link>https://www.prestashop.com/pl/blog/prestashop-dla-duzego-sklepu-internetowego-czy-to-dobry-pomysl</link>
+    <description>Czy platforma eCommerce PrestaShop jest w stanie sprostać wymaganiom dużych firm i e-sklepów? Sprawdziliśmy to! Zobacz wnioski i konkretne realizacje. </description>
+     <pubDate>Tue, 17 Apr 2018 12:53:21 +0200</pubDate>
+ <dc:creator>ps_partners</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/prestashop-dla-duzego-sklepu-internetowego-czy-to-dobry-pomysl</guid>
+  </item>
+  <item>
+    <title>PrestaShop wprowadza PrestaTrust, system monitorowania kodu oparty o technologię blockchain.</title>
+    <link>https://www.prestashop.com/pl/blog/wodowanie-prestatrust</link>
+    <description>Po niedawnej aktualizacji do wersji 1.7.3, PrestaShop prezentuje PrestaTrust, system monitorowania kodu oparty o technologię blockchain.</description>
+     <pubDate>Tue, 20 Mar 2018 17:53:09 +0100</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/wodowanie-prestatrust</guid>
+  </item>
+  <item>
+    <title>PrestaShop 1.7.3.0 już jest!</title>
+    <link>https://www.prestashop.com/pl/blog/prestashop-1-7-3-0-juz-jest-1</link>
+    <description>ŁATWIEJ – SZYBCIEJ – MIĘDZYNARODOWO</description>
+     <pubDate>Thu, 08 Mar 2018 15:07:39 +0100</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/prestashop-1-7-3-0-juz-jest-1</guid>
+  </item>
+  <item>
+    <title>PrestaShop Was uwielbia! &amp;lt;3</title>
+    <link>https://www.prestashop.com/pl/blog/prestashop-was-uwielbia</link>
+    <description>To była przyjaźń od pierwszego wejrzenia. Kiedy spotkaliśmy się w 2007 roku, połączyły nas 2 pasje: e-commerce i Open Source.</description>
+     <pubDate>Tue, 13 Feb 2018 13:36:04 +0100</pubDate>
+ <dc:creator>prestonfriendspl</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/prestashop-was-uwielbia</guid>
+  </item>
+  </channel>
+</rss>
